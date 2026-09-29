@@ -1,8 +1,8 @@
-\# 3Dropia
+# 3Dropia
 
 
 
-A tiny Windows frontend for \*\*FBI Remote Install\*\* on Nintendo 3DS.
+A tiny Windows frontend for **FBI Remote Install** on Nintendo 3DS.
 
 
 
@@ -10,43 +10,43 @@ Drag in your files, enter your 3DS IP, and send them over your local network.
 
 
 
-\## Features
+## Features
 
 
 
-\- Simple Windows GUI
+- Simple Windows GUI
 
-\- Drag \& drop
+- Drag & drop
 
-\- `.cia`, `.tik`, `.cetk`, `.3dsx`
+- `.cia`, `.tik`, `.cetk`, `.3dsx`
 
-\- Multiple files
+- Multiple files
 
-\- White / Black themes
+- White / Black themes
 
-\- Configurable FBI and HTTP ports
+- Configurable FBI and HTTP ports
 
-\- Remembers your settings
-
-
-
-\## Usage
+- Remembers your settings
 
 
 
-1\. Open \*\*FBI\*\* on your 3DS
-
-2\. Go to `Remote Install → Receive URLs`
-
-3\. Open \*\*3Dropia\*\*
-
-4\. Add your files
-
-5\. Press \*\*Send to 3DS\*\*
+## Usage
 
 
 
-\## Credits
+1. Open **FBI** on your 3DS
+
+2. Go to `Remote Install → Receive URLs`
+
+3. Open **3Dropia**
+
+4. Add your files
+
+5. Press **Send to 3DS**
+
+
+
+## Credits
 
 
 
@@ -54,13 +54,13 @@ Drag in your files, enter your 3DS IP, and send them over your local network.
 
 
 
-\- \[FBI](https://github.com/Steveice10/FBI)
+- [FBI](https://github.com/Steveice10/FBI)
 
-\- \[servefiles.py](https://github.com/Steveice10/FBI/blob/master/servefiles/servefiles.py)
+- [servefiles.py](https://github.com/Steveice10/FBI/blob/master/servefiles/servefiles.py)
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
@@ -72,7 +72,7 @@ Nintendo and Nintendo 3DS are trademarks of Nintendo.
 
 
 
-\---
+---
 
 
 
