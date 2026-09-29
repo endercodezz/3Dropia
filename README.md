@@ -76,5 +76,5 @@ Nintendo and Nintendo 3DS are trademarks of Nintendo.
 
 
 
-Made by \[enderlit](https://github.com/endercodezz)
+Made by [enderlit](https://github.com/endercodezz)
 
