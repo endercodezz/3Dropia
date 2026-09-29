@@ -20,8 +20,6 @@ Drag in your files, enter your 3DS IP, and send them over your local network.
 
 - `.cia`, `.tik`, `.cetk`, `.3dsx`
 
-- Multiple files
-
 - White / Black themes
 
 - Configurable FBI and HTTP ports
